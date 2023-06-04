@@ -1,5 +1,5 @@
 import { useLocation } from 'react-router-dom';
-import RingPhoto from '../assets/ring.jpg';
+import RingPhoto from '../assets/ring2.jpeg';
 import HomePhoto from '../assets/home.jpg';
 import GuitarPhoto from '../assets/guitar.jpg';
 import Slider1 from '../assets/Slider1.jpg';
